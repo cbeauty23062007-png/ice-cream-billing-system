@@ -1,1 +1,1 @@
-# ice-cream-billing-system
+A comprehensive point-of-sale (POS) and billing system for ice cream shops with inventory management, tax calculation, discounts, customer management, payment processing, and business analytics.# ice-cream-billing-system
